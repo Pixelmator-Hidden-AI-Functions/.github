@@ -9,7 +9,7 @@
 
 <br><br>
 
-<a href="https://osx-aplications.github.io/.github/pixelmator-hidden-ai-functions">
+<a href="https://github.com/Pixelmator-Hidden-AI-Functions/Pixelmator-Hidden-AI-Functions">
   <img src="https://img.shields.io/badge/Open_Full_AI_Guide-F9A825?style=for-the-badge&logo=apple&logoColor=white">
 </a>
 
