@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/15c86454-57ee-4399-bab8-76ec96f3b0fe/Pixelmator.png" width="588" alt="Pixelmator Pro Logo">
+<img src="https://www.mactech.com/wp-content/uploads/2017/09/Pixelmator-Pro-icon.jpg" width="338" alt="Pixelmator Pro Logo">
 
 <br><br>
 
